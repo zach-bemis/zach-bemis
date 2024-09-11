@@ -25,11 +25,11 @@
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I like to play volleyball
-- <p align='center'> 
+-<p align='center'> 
 
-   <a href="https://github-readme-stats.vercel.app/api?usernamezach-bemis&show_icons=true&count_private=true"> 
+   <a href="https://github-readme-stats.vercel.app/api?username=zach-bemis&show_icons=true&count_private=true"> 
 
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"/> 
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=zach-bemis&show_icons=true&count_private=true"/> 
 
    </a> 
 
@@ -38,6 +38,8 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/> 
 
    </a> 
+
+</p> 
 
 </p> 
 
