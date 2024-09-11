@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zachary Bemis) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-bemis-8b9305328/)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zach-bemis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zach-bemis&theme=dark&hide_border=false)<br/>
