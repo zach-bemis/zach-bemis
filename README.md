@@ -1,5 +1,5 @@
 # 💫 About Me:  I'm Zach Bemis
-- 🔭 I’m currently working on getting cs50 ceterfied <br><br>- 🌱 I’m currently learning python<br><br>- 👯 I’m looking to collaborate on ... <br><br>- 🤔 I’m looking for help with ... <br><br>- 💬 Ask me about ... <br><br>-  📫 How to reach me: <a href='mailto:GCI.241060@students.geneseeisd.org'>GCI.241060@students.geneseeisd.org</a> <br><br></p> <br><br>-😄 Pronouns: He/Him<br><br>- ⚡ Fun fact: I like to play volleyball
+- 🔭 I’m currently working on getting cs50 ceterfied <br><br>- 🌱 I’m currently learning python<br><br>- 👯 I’m looking to collaborate on nothing at the moment <br><br>- 🤔 I’m looking for help with learning to code in python <br><br>- 💬 Ask me about videogames <br><br>-  📫 How to reach me: <a href='mailto:GCI.241060@students.geneseeisd.org'>GCI.241060@students.geneseeisd.org</a> <br><br></p> <br><br>-😄 Pronouns: He/Him<br><br>- ⚡ Fun fact: I like to play volleyball
 
 
 ## 🌐 Socials:
